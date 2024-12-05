@@ -14,11 +14,17 @@
         "doctrine/doctrine-migrations-bundle": "^3.3",
         "doctrine/orm": "^3.3",
         "runtime/frankenphp-symfony": "^0.2.0",
+        "symfony/cache-contracts": "^3.5",
         "symfony/console": "7.2.*",
+        "symfony/deprecation-contracts": "^3.5",
         "symfony/dotenv": "7.2.*",
+        "symfony/event-dispatcher-contracts": "^3.5",
         "symfony/flex": "^2",
         "symfony/framework-bundle": "7.2.*",
+        "symfony/http-client-contracts": "^3.5",
+        "symfony/http-kernel": "7.2.*",
         "symfony/runtime": "7.2.*",
+        "symfony/service-contracts": "^3.5",
         "symfony/yaml": "7.2.*"
     },
     "config": {
